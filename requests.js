@@ -1,4 +1,4 @@
-// GET REQUEST ------------------------------
+// GET REQUEST ---------------------------
 
 let express = require('express');
 let bodyParser = require('body-parser');
@@ -24,4 +24,4 @@ app.listen(3000, () => {
   console.log('Listening on port 3000')
 })
 
-// ---------------------------------------------
+// ------------------------------------------
